@@ -413,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_OBJC_EXPLICIT_OWNERSHIP_TYPE = NO;
 				INFOPLIST_FILE = "testStrong & copy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "huangshaohua.testStrong---copy";
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_OBJC_EXPLICIT_OWNERSHIP_TYPE = NO;
 				INFOPLIST_FILE = "testStrong & copy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "huangshaohua.testStrong---copy";
@@ -498,6 +500,7 @@
 				385D05C91C296BDC00215B02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		385D05CA1C296BDC00215B02 /* Build configuration list for PBXNativeTarget "testStrong & copyTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				385D05CC1C296BDC00215B02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		385D05CD1C296BDC00215B02 /* Build configuration list for PBXNativeTarget "testStrong & copyUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				385D05CF1C296BDC00215B02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
